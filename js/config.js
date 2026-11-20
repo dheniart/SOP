@@ -1,4 +1,2 @@
-/* Alamat backend cloud (Google Apps Script). Diisi setelah langkah di cloud/PANDUAN-CLOUD.md.
-   Contoh: window.SOP_CLOUD = { url: "https://script.google.com/macros/s/XXXX/exec" };
-   Kosongkan jika belum memakai cloud (aplikasi tetap jalan dengan LocalStorage). */
-window.SOP_CLOUD = { url: "" };
+/* Alamat backend cloud (Google Apps Script). */
+window.SOP_CLOUD = { url: "https://script.google.com/macros/s/AKfycbz3s4b7_Tnfcb--mI52iRqa7FMyiC7ypVv01fpWiwafjjog73ILwpbeVXyxmokZ_dI1/exec" };
